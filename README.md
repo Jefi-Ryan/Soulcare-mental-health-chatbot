@@ -72,7 +72,7 @@ Follow these steps to set up the project locally:
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
   <div style="flex: 1; text-align: center;">
     <h4>Train/Loss</h4>
-    <img src="https://github.com/user-attachments/assets/29dc8a18-2824-4f2e-99b1-c2199fdd8616" alt="Train/Loss" width="400"/>
+    <img src="https://github.com/user-attachments/assets/000a1b3f-b475-4268-90e7-72ecedbffa6c" alt="Train/Loss" width="400"/>
   </div>
   <div style="flex: 1; text-align: center;">
     <h4>Train/Grad Norm</h4>
