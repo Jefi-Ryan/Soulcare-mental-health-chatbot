@@ -85,7 +85,7 @@ Follow these steps to set up the project locally:
 |---------------------------------|-----------------------------|--------------------------|
 | MMLU (Sociology)                | 27.86%                      | 24.88%                   |
 | MMLU (Human Aging)              | 29.15%                      | 19.28%                   |
-| MMLU (Professional Psychology)  | 30.72%                      | 27.12%                   |
+| MMLU (Professional Psychology)  | 30.72%                      | 25.32%                   |
 | MMLU (Moral Disputes)           | 28.90%                      | 25.72%                   |
 | MMLU (Public Relations)         | 38.18%                      | 25.45%                   |
 | Bias                            | 0%                          | 23.81%                   |
